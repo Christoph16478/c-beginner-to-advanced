@@ -1,0 +1,2 @@
+﻿  main.c
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\11readandwritefiles\main.c(6,10): fatal  error C1083: Cannot open include file: 'FunctionsBib.h': No such file or directory

@@ -1,0 +1,6 @@
+﻿  main.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  18_setting_and_reading_bits.vcxproj -> C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\x64\Release\18_setting_and_reading_bits.exe

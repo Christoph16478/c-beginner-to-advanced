@@ -1,0 +1,13 @@
+﻿  CsvReader.c
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\16csvreader\CsvReader.c(10,16): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\16csvreader\CsvReader.c(15,56): error C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\16csvreader\CsvReader.c(22,11): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\16csvreader\CsvReader.c(35,16): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\16csvreader\CsvReader.c(40,56): error C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\16csvreader\CsvReader.c(56,33): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\16csvreader\CsvReader.c(75,16): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\16csvreader\CsvReader.c(80,56): error C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  data_in.csv+.c
+  main.c
+  Record.c
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\16csvreader\Record.c(67,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data

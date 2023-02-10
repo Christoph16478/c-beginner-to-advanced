@@ -1,0 +1,32 @@
+﻿  functions.c
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\10structsandtypedeff\functions.c(24,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\10structsandtypedeff\functions.c(43,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\10structsandtypedeff\functions.c(61,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\10structsandtypedeff\functions.c(75,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\10structsandtypedeff\functions.c(96,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\10structsandtypedeff\functions.c(118,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\10structsandtypedeff\functions.c(131,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\10structsandtypedeff\functions.c(135,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\10structsandtypedeff\functions.c(149,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\10structsandtypedeff\functions.c(151,27): warning C4018: '<': signed/unsigned mismatch
+  main.c
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\10structsandtypedeff\functions.c(24,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\10structsandtypedeff\functions.c(43,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\10structsandtypedeff\functions.c(61,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\10structsandtypedeff\functions.c(75,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\10structsandtypedeff\functions.c(96,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\10structsandtypedeff\functions.c(118,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\10structsandtypedeff\functions.c(131,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\10structsandtypedeff\functions.c(135,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\10structsandtypedeff\functions.c(149,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\10structsandtypedeff\functions.c(151,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\10structsandtypedeff\main.c(9,19): error C2079: 'v1' uses undefined struct 'Vector'
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\10structsandtypedeff\main.c(9,49): error C2078: too many initializers
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\10structsandtypedeff\main.c(11,28): error C2224: left of '.length' must have struct/union type
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\10structsandtypedeff\main.c(13,12): error C2224: left of '.data' must have struct/union type
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\10structsandtypedeff\main.c(16,18): warning C4013: 'maxVector' undefined; assuming extern returning int
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\10structsandtypedeff\main.c(17,18): warning C4013: 'minVector' undefined; assuming extern returning int
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\10structsandtypedeff\main.c(18,21): warning C4013: 'meanVector' undefined; assuming extern returning int
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\10structsandtypedeff\main.c(9,24): warning C4047: 'initializing': 'int' differs in levels of indirection from 'int *'
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\10structsandtypedeff\main.c(9,47): error C2078: too many initializers
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\10structsandtypedeff\main.c(18,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data

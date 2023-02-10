@@ -1,0 +1,6 @@
+﻿  functions.c
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\7arrays\functions.c(62,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\7arrays\functions.c(78,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\7arrays\functions.c(91,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\7arrays\functions.c(111,23): warning C4018: '<': signed/unsigned mismatch
+  7arrays.vcxproj -> C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\x64\Debug\7arrays.exe

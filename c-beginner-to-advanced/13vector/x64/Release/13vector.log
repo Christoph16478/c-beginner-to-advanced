@@ -1,0 +1,22 @@
+﻿  functions.c
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\13vector\functions.c(25,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.c
+  vector.c
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\13vector\vector.c(11,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\13vector\vector.c(34,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\13vector\vector.c(47,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\13vector\vector.c(60,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\13vector\vector.c(73,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\13vector\vector.c(75,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\13vector\vector.c(86,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\13vector\vector.c(88,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\13vector\vector.c(97,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\13vector\vector.c(110,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\13vector\vector.c(124,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\13vector\vector.c(145,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\13vector\vector.c(171,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\13vector\vector.c(164,16): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\13vector\vector.c(173,9): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\13vector\vector.c(190,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\13vector\vector.c(192,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\13vector\vector.c(183,16): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
