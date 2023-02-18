@@ -1,0 +1,10 @@
+﻿  sorting_algorithms.c
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\sorting_algorithms\sorting_algorithms.c(11,2): warning C4091: 'static ': ignored on left of 'node' when no variable is declared
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\sorting_algorithms\sorting_algorithms.c(40,2): warning C4091: 'static ': ignored on left of 'date' when no variable is declared
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\sorting_algorithms\sorting_algorithms.c(47,2): warning C4091: 'static ': ignored on left of 'student' when no variable is declared
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\sorting_algorithms\sorting_algorithms.c(129,16): warning C4133: '=': incompatible types - from 'int *' to 'node1 *'
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\sorting_algorithms\sorting_algorithms.c(135,18): warning C4133: '=': incompatible types - from 'int *' to 'node1 *'
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\sorting_algorithms\sorting_algorithms.c(57,20): warning C4101: 'j': unreferenced local variable
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\sorting_algorithms\sorting_algorithms.c(57,17): warning C4101: 'x': unreferenced local variable
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\sorting_algorithms\sorting_algorithms.c(57,23): warning C4101: 'swaps': unreferenced local variable
+  sorting_algorithms.vcxproj -> C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\x64\Debug\sorting_algorithms.exe

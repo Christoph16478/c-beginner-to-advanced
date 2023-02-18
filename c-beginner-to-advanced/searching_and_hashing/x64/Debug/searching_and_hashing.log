@@ -1,0 +1,12 @@
+﻿  searching_and_hashing.c
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\searching_and_hashing\searching_and_hashing.c(11,2): warning C4091: 'static ': ignored on left of 'student' when no variable is declared
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\searching_and_hashing\searching_and_hashing.c(17,2): warning C4091: 'static ': ignored on left of 'Node' when no variable is declared
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\searching_and_hashing\searching_and_hashing.c(72,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\searching_and_hashing\searching_and_hashing.c(72,11): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\searching_and_hashing\searching_and_hashing.c(72,11): message : the missing variadic argument 2 is required by format string '%s'
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\searching_and_hashing\searching_and_hashing.c(72,11): message : this argument is used as a buffer size
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\searching_and_hashing\searching_and_hashing.c(120,12): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\searching_and_hashing\searching_and_hashing.c(120,12): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\searching_and_hashing\searching_and_hashing.c(120,12): message : the missing variadic argument 2 is required by format string '%s'
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\searching_and_hashing\searching_and_hashing.c(120,12): message : this argument is used as a buffer size
+  searching_and_hashing.vcxproj -> C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\x64\Debug\searching_and_hashing.exe

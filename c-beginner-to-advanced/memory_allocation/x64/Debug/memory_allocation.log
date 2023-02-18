@@ -1,0 +1,18 @@
+﻿  memory_allocation.c
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\memory_allocation\memory_allocation.c(13,13): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\memory_allocation\memory_allocation.c(13,13): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\memory_allocation\memory_allocation.c(13,13): message : the missing variadic argument 2 is required by format string '%20s'
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\memory_allocation\memory_allocation.c(13,13): message : this argument is used as a buffer size
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\memory_allocation\memory_allocation.c(15,13): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\memory_allocation\memory_allocation.c(15,13): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\memory_allocation\memory_allocation.c(15,13): message : the missing variadic argument 2 is required by format string '%20s'
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\memory_allocation\memory_allocation.c(15,13): message : this argument is used as a buffer size
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\memory_allocation\memory_allocation.c(45,13): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\memory_allocation\memory_allocation.c(45,13): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\memory_allocation\memory_allocation.c(45,13): message : the missing variadic argument 2 is required by format string '%20s'
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\memory_allocation\memory_allocation.c(45,13): message : this argument is used as a buffer size
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\memory_allocation\memory_allocation.c(47,13): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\memory_allocation\memory_allocation.c(47,13): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\memory_allocation\memory_allocation.c(47,13): message : the missing variadic argument 2 is required by format string '%20s'
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\memory_allocation\memory_allocation.c(47,13): message : this argument is used as a buffer size
+  memory_allocation.vcxproj -> C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\x64\Debug\memory_allocation.exe

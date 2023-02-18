@@ -1,0 +1,3 @@
+﻿  formatting_function.c
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\formatting_function\formatting_function.c(14,50): warning C4047: '=': 'FILE *' differs in levels of indirection from 'errno_t'
+  formatting_function.vcxproj -> C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\x64\Debug\formatting_function.exe

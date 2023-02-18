@@ -1,0 +1,5 @@
+﻿  single_linked_list_func.c
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\single_linked_list\single_linked_list_func.c(114,37): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\single_linked_list\single_linked_list_func.c(120,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\single_linked_list\single_linked_list_func.c(185,16): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'void *'
+  single_linked_list.vcxproj -> C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\x64\Debug\single_linked_list.exe

@@ -1,0 +1,23 @@
+﻿  vector.c
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\vector\vector.c(57,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\vector\vector.c(80,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\vector\vector.c(93,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\vector\vector.c(106,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\vector\vector.c(119,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\vector\vector.c(121,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\vector\vector.c(132,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\vector\vector.c(134,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\vector\vector.c(143,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\vector\vector.c(156,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\vector\vector.c(170,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\vector\vector.c(191,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\vector\vector.c(210,27): warning C4047: 'function': 'FILE **' differs in levels of indirection from 'Vector *'
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\vector\vector.c(210,24): warning C4024: 'fopen_s': different types for formal and actual parameter 1
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\vector\vector.c(217,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\vector\vector.c(210,11): warning C4047: 'initializing': 'FILE *' differs in levels of indirection from 'errno_t'
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\vector\vector.c(229,27): warning C4047: 'function': 'FILE **' differs in levels of indirection from 'Vector *'
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\vector\vector.c(229,24): warning C4024: 'fopen_s': different types for formal and actual parameter 1
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\vector\vector.c(236,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\vector\vector.c(238,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\vector\vector.c(229,11): warning C4047: 'initializing': 'FILE *' differs in levels of indirection from 'errno_t'
+  vector.vcxproj -> C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\x64\Debug\vector.exe

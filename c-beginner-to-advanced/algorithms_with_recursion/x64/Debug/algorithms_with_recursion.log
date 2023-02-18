@@ -1,0 +1,4 @@
+﻿  algorithms_with_recursion.c
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\algorithms_with_recursion\algorithms_with_recursion.c(277,30): warning C4047: 'function': 'int' differs in levels of indirection from 'node *'
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\algorithms_with_recursion\algorithms_with_recursion.c(277,24): warning C4024: 'sum': different types for formal and actual parameter 1
+  algorithms_with_recursion.vcxproj -> C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\x64\Debug\algorithms_with_recursion.exe

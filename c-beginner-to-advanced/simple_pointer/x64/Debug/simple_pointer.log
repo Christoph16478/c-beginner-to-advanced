@@ -1,0 +1,11 @@
+﻿  simple_pointer.c
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\simple_pointer\simple_pointer_funcs.c(7,12): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'float *'
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\simple_pointer\simple_pointer_funcs.c(7,12): warning C4313: 'printf': '%x' in format string conflicts with argument 1 of type 'float *'
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\simple_pointer\simple_pointer_funcs.c(17,12): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'float *'
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\simple_pointer\simple_pointer_funcs.c(17,12): warning C4313: 'printf': '%x' in format string conflicts with argument 1 of type 'float *'
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\simple_pointer\simple_pointer.c(30,14): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\simple_pointer\simple_pointer.c(30,10): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int'
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\simple_pointer\simple_pointer.c(93,13): warning C4013: 'free' undefined; assuming extern returning int
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\simple_pointer\simple_pointer.c(178,12): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'float *'
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\simple_pointer\simple_pointer.c(178,12): warning C4313: 'printf': '%x' in format string conflicts with argument 1 of type 'float *'
+  simple_pointer.vcxproj -> C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\x64\Debug\simple_pointer.exe

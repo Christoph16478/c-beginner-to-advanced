@@ -1,0 +1,6 @@
+﻿  logic_operators.c
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\logic_operators\logic_operators.c(45,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\logic_operators\logic_operators.c(45,12): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int *'
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\logic_operators\logic_operators.c(110,38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\logic_operators\logic_operators.c(111,38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  logic_operators.vcxproj -> C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\x64\Debug\logic_operators.exe

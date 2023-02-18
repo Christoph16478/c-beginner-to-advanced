@@ -1,0 +1,5 @@
+﻿  more_c_libraries.c
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\more_c_libraries\more_c_libraries.c(26,16): warning C4013: 'time' undefined; assuming extern returning int
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\more_c_libraries\more_c_libraries.c(33,20): warning C4013: 'ctime' undefined; assuming extern returning int
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\more_c_libraries\more_c_libraries.c(33,36): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+  more_c_libraries.vcxproj -> C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\x64\Debug\more_c_libraries.exe

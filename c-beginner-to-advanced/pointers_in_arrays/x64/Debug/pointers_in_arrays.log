@@ -1,0 +1,19 @@
+﻿  pointers_in_arrays.c
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\pointers_in_arrays\pointers_in_arrays_func.c(9,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\pointers_in_arrays\pointers_in_arrays_func.c(13,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\pointers_in_arrays\pointers_in_arrays_func.c(26,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\pointers_in_arrays\pointers_in_arrays_func.c(28,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\pointers_in_arrays\pointers_in_arrays.c(16,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\pointers_in_arrays\pointers_in_arrays.c(18,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\pointers_in_arrays\pointers_in_arrays.c(24,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\pointers_in_arrays\pointers_in_arrays.c(26,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\pointers_in_arrays\pointers_in_arrays.c(32,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\pointers_in_arrays\pointers_in_arrays.c(58,16): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int *'
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\pointers_in_arrays\pointers_in_arrays.c(58,16): warning C4313: 'printf': '%x' in format string conflicts with argument 1 of type 'int *'
+  pointers_in_arrays_func.c
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\pointers_in_arrays\pointers_in_arrays_func.c(9,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\pointers_in_arrays\pointers_in_arrays_func.c(13,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\pointers_in_arrays\pointers_in_arrays_func.c(26,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\pointers_in_arrays\pointers_in_arrays_func.c(28,27): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  pointers_in_arrays.vcxproj -> C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\x64\Debug\pointers_in_arrays.exe

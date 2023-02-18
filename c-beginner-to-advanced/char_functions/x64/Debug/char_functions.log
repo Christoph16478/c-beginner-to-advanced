@@ -1,0 +1,9 @@
+﻿  char_functions.c
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\char_functions\char_functions.c(15,13): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\char_functions\char_functions.c(15,13): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\char_functions\char_functions.c(15,13): message : the missing variadic argument 2 is required by format string '%s'
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\char_functions\char_functions.c(15,13): message : this argument is used as a buffer size
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\char_functions\char_functions.c(16,37): warning C4047: '=': 'FILE *' differs in levels of indirection from 'errno_t'
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\char_functions\char_functions.c(34,45): warning C4047: '=': 'FILE *' differs in levels of indirection from 'errno_t'
+C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\char_functions\char_functions.c(66,43): warning C4047: '=': 'FILE *' differs in levels of indirection from 'errno_t'
+  char_functions.vcxproj -> C:\Users\chris\OneDrive\Desktop\Christoph16478_github\c-beginner-to-advanced\c-beginner-to-advanced\x64\Debug\char_functions.exe
